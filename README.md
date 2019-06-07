@@ -29,17 +29,17 @@ var person = {firstName:"Mat",
         function hoverhandler(){
 	 }
     ''
- ### Name  : Abednego Mwanza
-
-	``  
-		//destructuring
-		let {quote} = allQuotes; 
-	`` 
+### Name: Mulubwa
+	``
+	//AsyncJS
+	const btn = document.querySelector('button');
+	``
 ## Name   : Nchimzy Banda
  ``
       // Nchimzy
       ES6 Functions
  ``
+
 
 
 
