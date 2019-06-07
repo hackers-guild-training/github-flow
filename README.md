@@ -15,7 +15,12 @@ Learning to use the github flow
 
 ## Add your name and your favourite javascript concept below : 
 
+ ### Name  : Abednego Mwanza
 
+	```Javascript  
+		//destructuring
+		let {quote} = allQuotes; 
+	``` 
 
 
 
