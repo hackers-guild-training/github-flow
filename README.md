@@ -15,13 +15,18 @@ Learning to use the github flow
 =================================== 
 
 ## Add your name and your favourite javascript concept below : 
-
+    ## Name: patrick :octocat
+    ''
+        //handler functions
+        function hoverhandler(){
+	 }
+    ''
  ### Name  : Abednego Mwanza
 
-	```Javascript  
+	``  
 		//destructuring
 		let {quote} = allQuotes; 
-	``` 
+	`` 
 
 
 
