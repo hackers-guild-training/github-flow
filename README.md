@@ -36,6 +36,16 @@ var person = {firstName:"Mat",
 		let {quote} = allQuotes; 
 	``` 
 	 
+### Name: Mulubwa
+	```
+	//AsyncJS
+	const btn = document.querySelector('button');
+	```
+## Name   : Nchimzy Banda
+ ```
+      // Nchimzy
+      ES6 Functions
+ ```
 
 
 
