@@ -16,25 +16,25 @@ Learning to use the github flow
 
 ## Add your name and your favourite javascript concept below : 
 
- ## Name: Mwansa Chupa
-  ``
+ ### Name: Mwansa Chupa
+ ```
 var person = {firstName:"Mat",
 	      lastNmae:"Lukas",
 	      age:24,
  	      Color:"Red"}	
- ``
-    ## Name: patrick :octocat:
-    ''
+ ```
+### Name: Patrick :octocat:
+ ```
         //handler functions
         function hoverhandler(){
 	 }
-    ''
+ ```
  ### Name  : Abednego Mwanza
 
-	``  
+	```  
 		//destructuring
 		let {quote} = allQuotes; 
-	`` 
+	``` 
 	 
 
 
