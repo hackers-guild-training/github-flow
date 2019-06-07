@@ -23,9 +23,20 @@ var person = {firstName:"Mat",
 	      age:24,
  	      Color:"Red"}	
  ``
+    ## Name: patrick :octocat:
+    ''
+        //handler functions
+        function hoverhandler(){
+	 }
+    ''
  ### Name  : Abednego Mwanza
 
 	``  
 		//destructuring
 		let {quote} = allQuotes; 
 	`` 
+	 
+
+
+
+
