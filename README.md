@@ -15,7 +15,13 @@ Learning to use the github flow
 
 ## Add your name and your favourite javascript concept below : 
 
-
+ ## Name: Mwansa Chupa
+  ```javascript
+var person = {firstName:"Mat",
+	      lastNmae:"Lukas",
+	      age:24,
+ 	      Color:"Red"}	
+ ```
 
 
 
