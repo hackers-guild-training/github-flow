@@ -29,13 +29,17 @@ var person = {firstName:"Mat",
         function hoverhandler(){
 	 }
     ''
- ### Name  : Abednego Mwanza
+ ### Name  : edwin musukwa
 
-	``  
-		//destructuring
-		let {quote} = allQuotes; 
-	`` 
-	 
+	``
+		 class edwin{
+    constructor(eye,phone){
+        this.eye = eye;
+        the.phone = phone;
+
+
+ const me = new edwin(); 
+``` 
 
 
 
