@@ -27,7 +27,11 @@ Learning to use the github flow
 		//destructuring
 		let {quote} = allQuotes; 
 	`` 
-
+## Name   : Nchimzy Banda
+ ``
+      // Nchimzy
+      ES6 Functions
+ ``
 
 
 
