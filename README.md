@@ -15,7 +15,15 @@ Learning to use the github flow
 =================================== 
 
 ## Add your name and your favourite javascript concept below : 
-    ## Name: patrick :octocat
+
+ ## Name: Mwansa Chupa
+  ``
+var person = {firstName:"Mat",
+	      lastNmae:"Lukas",
+	      age:24,
+ 	      Color:"Red"}	
+ ``
+    ## Name: patrick :octocat:
     ''
         //handler functions
         function hoverhandler(){
