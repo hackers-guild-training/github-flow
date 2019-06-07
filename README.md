@@ -20,7 +20,13 @@ Learning to use the github flow
 
 	```Javascript  
 		//destructuring
-		let {quote} = allQuotes; 
+		 class edwin{
+    constructor(eye,phone){
+        this.eye=eye;
+        the.phone=phone;
+
+
+ const me = new edwin(); 
 	``` 
 
 
