@@ -35,8 +35,11 @@ var person = {firstName:"Mat",
 		//destructuring
 		let {quote} = allQuotes; 
 	`` 
-	 
-
+## Name   : Nchimzy Banda
+ ``
+      // Nchimzy
+      ES6 Functions
+ ``
 
 
 
