@@ -21,7 +21,13 @@ Learning to use the github flow
 	```Javascript  
 		//destructuring
 		let {quote} = allQuotes; 
+
 	``` 
+### Name: Mulubwa
+```Concept
+	//Async
+	const btn = document.querySelector('button');
+```	
 
 
 
