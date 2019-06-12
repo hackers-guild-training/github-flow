@@ -3,7 +3,7 @@ Learning to use the github flow
 
 ===================================
 ## Instructions 
-1. Fork the repository create
+1. Fork the repository 
 2. Clone to local 
 3. Add upstream : `git remote add upstream https://github.com/hackers-guild-training/github-flow`
 4. Create a branch named after what you will do. What you will do is below. 
@@ -31,17 +31,17 @@ var person = {firstName:"Mat",
  ```
  ### Name  : Abednego Mwanza
 
-	```  
+ ```  
 		//destructuring
 		let {quote} = allQuotes; 
-	``` 
+ ``` 
 	 
 ### Name: Mulubwa
-	```
+ ```
 	//AsyncJS
 	const btn = document.querySelector('button');
-	```
-## Name   : Nchimzy Banda
+ ```
+### Name   : Nchimzy Banda
  ```
       // Nchimzy
       ES6 Functions
